@@ -1,6 +1,6 @@
 {
-  "name": "SillyToken",
+  "name": "SillyCoin",
   "symbol": "SILLY",
-  "description": "Silly token for silly people, like you and me",
-  "image":""
+  "description": "Silly coin for silly people, like you and me",
+  "image":"https://raw.githubusercontent.com/shricastic/SillyCoin/9f437d6b20015139d0a127b412c60642d1498d48/silly.jpg"
 }
